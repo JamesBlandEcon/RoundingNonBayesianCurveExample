@@ -12,6 +12,6 @@ Running the following R scripts in order produces all of the outputs:
 01_estimate_models.R requires two .stan files to run:
 
 * interval_pooled.stan for the pooled model
-* interval_hierarchical for the hierarchical model
+* interval_hierarchical.stan for the hierarchical model
 
 
