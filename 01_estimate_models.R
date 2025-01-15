@@ -163,7 +163,8 @@ id<-id[1,]
 
 #-------------------------------------------------------------------------------
 # pooled estimation (takes about 20 min for 30 agents with 4 decisions 
-# on a 2017 4-core i7 processor with Win 11)
+# on a 2017 4-core i7 processor with Win 11, or about 5min on a 2024 32-core i7
+# processor with Win 10)
 #-------------------------------------------------------------------------------
 
   # get the data into a Stan-friendly format 
@@ -202,7 +203,8 @@ id<-id[1,]
 
 #-------------------------------------------------------------------------------
 # hierarchical estimation (takes about 20 min for 30 agents with 4 decisions 
-# on a 2017 4-core i7 processor with Win 11)
+# on a 2017 4-core i7 processor with Win 11, or about 5min on a 2024 32-core i7
+# processor with Win 10)
 #-------------------------------------------------------------------------------
 
   dStan<-list(
