@@ -1,6 +1,6 @@
 # RoundingNonBayesianCurveExample
 
-This repository contains code in R and Stan for simulating data and then estimating the following versions of the Grether (1980) of belief updating model:
+This repository contains code in R and Stan for simulating data and then estimating the following versions of the Grether (1980) belief updating model:
  * OLS
  * IV accounting for classical measurement error
  * Pooled Interval Model accounting for rounding bias Bayesian
